@@ -1,0 +1,9 @@
+First thing I did is try to layout my website into the 3 hierarchical tiers.  In the index.php file, the top half contains the presentation or layout tier since that’s where all the HTML is located.  The bottom half of the index.php file (starting on line 54) is the business tier because that’s where all the logic handling occurs within the javascript.  Finally I have a file called get_stats.php which is the database tier.  The MySQL calls all occur on the get_stats.php file.
+
+My website functions the following way:
+1.	 Every keystroke in the text input box makes an ajax call
+2.	AJAX call makes query to the database
+3.	Query returns a json encoded object
+4.	The json object which consist of the query gets appended to the table
+
+While my websites lacks a lot of bells and whistles like photos and video links, it is incredibly fast. 

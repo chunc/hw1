@@ -1,0 +1,10 @@
+<AJAX Search>
+Implemented an AJAX search.  The results are self-explanatory.  There is no need to click on a “submit” button and the results show up instantaneously in a form of a table.
+
+<CSS>
+Minimal and simplistic CSS also has been applied.  I used the Twitter Bootstrap framework to handle the CSS.  On the index.php file, I link to the Twitter Bootstrap stylesheet, and non-ugly css elements can easily be applied to HTML tags.  
+
+For example:
+ <table class=”table table-hover”></table> 
+
+By assigning the class “table”, Twitter Bootstrap will create a nice looking table with nice fonts, spacing, and its even responsive.  By adding the class “table-over”, the row entry will darken when the mouse hovers over the row.  Twitter Bootstrap Framework will allow me to quickly to create non-ugly websites without having to do constant tweaking and adjustments.  
