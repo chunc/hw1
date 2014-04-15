@@ -5,10 +5,10 @@ Programming Assignment 1
 Create a website to search NBA player stats
 
 Deliverables:
-[50pts] Website works – searching for player name works!
-[20pts] Data is hosted on AWS RDS
-[20pts] Website written with PHP & MySQL – PHP best practices!
-[10pts] Website runs on AWS EC2
+Website works – searching for player name works!
+Data is hosted on AWS RDS
+Website written with PHP & MySQL – PHP best practices!
+Website runs on AWS EC2
 
 Extra Credit Applied:
 -AJAX search
